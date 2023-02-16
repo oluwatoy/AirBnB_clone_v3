@@ -153,10 +153,13 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Bamidele Emmanuel
-Chijioke Chika
+## Authors 
+Chika Chijioke - [Github](https://github.com/cjchika)
+Bamidele Emmanuel - [Github](https://github.com/oluwatoy)
+=======
 
+>>>>>>> aac5acdaf910012588914eb3717c1dfbc215cbd8
 Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
